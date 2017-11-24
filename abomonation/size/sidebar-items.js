@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["AbomonationSize","Sizing information for typed data in number of bytes required.a"]]});
